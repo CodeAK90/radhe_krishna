@@ -2,11 +2,6 @@ import cv2
 import numpy as np
 import random
 
-# ==========================================================
-# CODEAK - Radha Krishna Neon Sketch Animation V2
-# Crisp line drawing | Bottom -> Top | Minimal glow
-# ==========================================================
-
 IMAGE = "radhe_krishna.jpeg"
 OUTPUT = "radhe_krishna_reel.mp4"
 
